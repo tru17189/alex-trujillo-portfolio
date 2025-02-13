@@ -37,4 +37,21 @@ permalink: /essays/ai-hollywood
        better known as FPS) between 16 or 18 frames per second, instead of the 24 per second
        we use in the present.
     </p>
+    ![Fig. 1: The Lost world (1925)](../assets/images/the-lost-world-1925.jpeg)
+    <center>Fig. 1: The Lost world (1925)</center>
+    <p align="justify">
+      Eventually, the introduction of the sounds era arrived. This era started in the late
+     1920s, and because of technology the movie industry changed forever. Microphones were
+     introduced, but many directors and actors weren’t happy with this new technology, because
+     they had to change their approach to direct and act. However, the immersion that
+     microphones brought to the movie industry was amazing, and all the retractors stayed
+     behind while the industry continued. Something important to mention is, during this audio era
+    engineers were introduced in the movie projects. The next big step for technology was the
+     colors. This happened during the 1930s, when the technicolor process was introduced (fig
+     2). Funny enough, this technology didn’t have an easy start either, but this time because of
+     economical reasons, because the technology was expensive and complicated to use. Even
+     when the audiences loved incredible successes such as ‘Gone with the wind’, the colors
+     didn’t become an immediate standard until the 1950s.
+    </p>
+    ![ Fig 2: Tecnicolor technique example](../assets/images/tecnicolor-technique-example.jpeg)
 </body>
