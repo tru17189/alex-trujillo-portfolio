@@ -714,10 +714,17 @@ permalink: /essays/ai-hollywood
 
 ## Works cited
 [Stryker, Cole and Kavlakoglu, Eda. "What is AI?." IBM. 16 August 2024,](https://www.ibm.com/topics/artificial-intelligence)
+
 [CineSpectrum “How Technology Has Transformed the Evolution of Cinema?!.” YouTube, uploaded by CineSpectrum, 1 May 2023.](https://www.youtube.com/watch?v=y9J07ODFtcE)
+
 [Ruczak, Kendra. “The Future Of Visual Effects: How Technology & Collaboration Are Advancing The VFX Industry.” Computer Graphics World. July, August, September 2022.](https://digital.copcomm.com/i/1474486-july-aug-sept-2022/27)
+
 [Buchanan, Mark. “The law of accelerating returns”. Nature Physics. July, 2008.](https://www.nature.com/articles/nphys1010)
+
 [Townsend, Stewart. “Exploring the Impact of AI on Film Production in 2024.” Medium. 2 March 2024.](https://medium.com/@channelasaservice/exploring-the-impact-of-ai-on-film-production-in-2024f02da745af00#:~:text=Influence%20of%20AI%20on%20Pre%2DProduction&text=This%20technology%20not%20only%20enhances,characters%2C%20and%20design%20innovative%20scenes)
+
 [Sahota, Neil. “The AI Takeover In Cinema: How Movie Studios Use Artificial Intelligence”. Forbes. 8 March 2024,](https://www.forbes.com/sites/neilsahota/2024/03/08/the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence/)
+
 [Diaz, Jesus. “Not even makeup artists are safe from generative AI.” Fast Company. 5 May 2023,](https://www.fastcompany.com/90901303/creative-jobs-ai)
+
 [Crave, Aton. “The Future of Stunt Performers in the Age of AI: A Double-Edged Sword.” The Reaction Lab. 7 June 2024,](https://thereactionlab.com/blog/the-future-of-stunt-performers-in-the-age-of-ai-a-double-edged-sword)
