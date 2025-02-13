@@ -1,1 +1,6 @@
-<center>Welcome to my portfolio! I’m Alexander Trujillo, a software engineer with experience in C#, data science, and API development. Here, you’ll find projects showcasing my work in backend development, database management, and AI applications. Explore my work and feel free to connect!</center>
+<p align="justify">
+  Welcome to Geeks for Geeks. It is a computer science portal for geeks. It contains well written, well thought articles. 
+  We are learning how to justify content on a web page. 
+</p>
+### Explore My Work
+[💻 GitHub Projects](https://github.com/tru17189?tab=repositories) | [✍️ My Essays](https://tru17189.github.io/essays) 
