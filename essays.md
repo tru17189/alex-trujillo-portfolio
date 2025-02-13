@@ -1,7 +1,7 @@
 ---
 title: My Essays
 permalink: /essays
-description: ""
+description: "A collection of my thoughts on technology, AI, and software development."
 ---
 
 # My Essays  
@@ -14,8 +14,8 @@ Here, you’ll find many of my writings—feel free to explore!</p>
 research that I will use to participate in the Bay Area Honors Symposium (BHC) 2025.</i> 
 
 ## Featured Essays  
-- [The Future of AI in Hollywood](#)  
-- [How APIs are Changing Software Development](#)  
-- [Lessons Learned from My Software Engineering Journey](#)
+- [AI’s Future Impact On Hollywood](#)  
+- [The Arava Project](#)  
+- [The Thesis Year](#)
 
   *(More coming soon!)*  
