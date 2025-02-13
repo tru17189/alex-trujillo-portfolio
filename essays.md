@@ -1,7 +1,7 @@
 ---
 title: My Essays
 permalink: /essays
-description: 
+description: ""
 ---
 
 # My Essays  
