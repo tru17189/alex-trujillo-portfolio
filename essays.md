@@ -1,6 +1,7 @@
 ---
 title: My Essays
 permalink: /essays
+description: 
 ---
 
 # My Essays  
