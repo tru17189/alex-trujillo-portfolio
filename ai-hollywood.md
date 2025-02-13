@@ -37,7 +37,6 @@ permalink: /essays/ai-hollywood
        better known as FPS) between 16 or 18 frames per second, instead of the 24 per second
        we use in the present.
     </p>
-    #image
     <center>Fig. 1: The Lost world (1925)</center>
     <p align="justify">
       Eventually, the introduction of the sounds era arrived. This era started in the late
@@ -53,7 +52,6 @@ permalink: /essays/ai-hollywood
      when the audiences loved incredible successes such as ‘Gone with the wind’, the colors
      didn’t become an immediate standard until the 1950s.
     </p>
-    # image
     <center>Fig 2: Tecnicolor technique example</center>
     <p align="justify">
       Technology kept advancing, and eventually a big success would take over the
