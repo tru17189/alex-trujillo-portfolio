@@ -3,7 +3,7 @@ title: AI’s Future Impact On Hollywood
 description: "🎬🤖"
 permalink: /essays/ai-hollywood
 ---
-
+<body>
   <p align="justify">
        Imagine that you are watching a movie, your favorite actor or actress is in the lead
    role, and after an amazing feat he or she is able to save the world from its destruction, and
@@ -74,7 +74,7 @@ permalink: /essays/ai-hollywood
      There is always a group of people threatened by these new changes. The important
      question is, should movies slow down their evolution to protect their people?
     </p>
-
+    
     <b> What Is AI?</b>
     <p align="justify">
        AI is the new technology that will take over the world. The impact of it is already
@@ -95,3 +95,4 @@ permalink: /essays/ai-hollywood
        but with something in common, human interaction. Both chat GPT and Gemini need human
        interaction in order to work, which leads us to a more accurate explanation of what AI is.
     </p>
+  </body>
