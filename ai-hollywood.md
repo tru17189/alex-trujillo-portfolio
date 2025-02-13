@@ -5,7 +5,7 @@ permalink: /essays/ai-hollywood
 ---
 <body>
   <p align="justify">
-       Imagine that you are watching a movie, your favorite actor or actress is in the lead
+    <tab>Imagine that you are watching a movie, your favorite actor or actress is in the lead
    role, and after an amazing feat he or she is able to save the world from its destruction, and
    everything returns to its status quo. In the epilogue of the movie, the main character is finally
    relaxing after such a big adventure, when out of nowhere, a mysterious character shows up.
@@ -15,7 +15,7 @@ permalink: /essays/ai-hollywood
    as artificial intelligence, which from this point forward will be referred to as AI. This is the
    technology that will take over the world in the coming years, will change the world for
    everyone, and Hollywood is no exception, but what should Hollywood expect? Well, let’s
-   take a look at the past, and try to answer this question.
+   take a look at the past, and try to answer this question.</tab>
   </p>
 
   <b>Hollywood And It Story With Technology</b>
@@ -117,5 +117,27 @@ permalink: /essays/ai-hollywood
      us as audiences won’t notice. However, considering that making a movie involves many
      different disciplines, in this article we will discuss the effects that AI will have in five of them;
      VFXs or CGI, production design, audio design, make-up work, and stunts.
+    </p>
+
+    <b>How Will AI Change VFXs?</b>
+    <p align="justify">
+      VFX stands for visual effects, which is a process that involves altering images or
+     videos for live action media such as movies or tv shows. VFX involves a variety of
+     techniques such as CGI, green screen, motion capture, etc. As movies and technology have
+     evolved, the use of VFXs have become more common in most productions, becoming a
+     standard these days. Anyway, because not all the productions have the same budgets and
+     times to work in their production, VFX artists have had to rely on technology to be able to do
+     their work on time. The VFX industry flourish and grows when artists have more time to
+     focus on their work, and with the introduction of CPUs VFXs artists have sped up their work
+     as never before. AMD is leading this competition being the main producer of CPU available
+    in the market, but what does CPUs do for VFXs? A single visual effects shot could have
+     hundreds or more updates and it takes immense processing power. With the introduction of
+     more powerful CPUs these processes have significantly reduced their duration. This gives
+     the opportunity to VFXs artists to have more time to work in their art, and turn in better
+     results, but how is AI related to all this? In a technological way, running an AI model can use
+     a lot of processing power, of course CPUs are necessary in order to achieve this AI models
+     run well. Now, AI and CPUs are vital components in the coming years for VFXs artists
+     because they will improve the VFX process, reducing time, giving VFX artists more freedom
+     to experiment, and reducing their carbon footprint.
     </p>
 </body>
