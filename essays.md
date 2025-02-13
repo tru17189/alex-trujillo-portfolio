@@ -14,8 +14,6 @@ Here, you’ll find many of my writings—feel free to explore!</p>
 research that I will use to participate in the Bay Area Honors Symposium (BHC) 2025.</i> 
 
 ## Featured Essays  
-- [AI’s Future Impact On Hollywood](https://tru17189.github.io/essays/ai-hollywood)  
-- [The Arava Project](#)  
-- [The Thesis Year](#)
+- [AI’s Future Impact On Hollywood](https://tru17189.github.io/essays/ai-hollywood)
 
   *(More coming soon!)*  
