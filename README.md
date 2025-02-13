@@ -3,4 +3,4 @@
   We are learning how to justify content on a web page. 
 </p>
 ### Explore My Work
-[💻 GitHub Projects](https://github.com/tru17189?tab=repositories) | [✍️ My Essays](https://tru17189.github.io/essays) 
+[💻 GitHub Projects](https://tru17189.github.io/projects) | [✍️ My Essays](https://tru17189.github.io/essays) 
