@@ -3,7 +3,7 @@ title: AI’s Future Impact On Hollywood
 description: "🎬🤖"
 permalink: /essays/ai-hollywood
 ---
-<body>
+
   <p align="justify">
        Imagine that you are watching a movie, your favorite actor or actress is in the lead
    role, and after an amazing feat he or she is able to save the world from its destruction, and
@@ -54,4 +54,25 @@ permalink: /essays/ai-hollywood
      didn’t become an immediate standard until the 1950s.
     </p>
     ![ Fig 2: Tecnicolor technique example](../assets/images/tecnicolor-technique-example.jpeg)
-</body>
+    <center>Fig 2: Tecnicolor technique example</center>
+    <p align="justify">
+      Technology kept advancing, and eventually a big success would take over the
+     world, a success from a company that actually wasn’t as known as it is presently. This
+     company is Lucas films, and their success is known as “Star Wars.” This movie and other
+     movies would show that computer generated imagery or CGI, were the next advancement.
+     This technology is still used in a lot of production every year, but it is still creating debate.
+     There is a big group that argues that the excessive use of CGI interferes with the story
+     telling. On the other hand, there is another group that argues that CGI is necessary to tell a
+     really immersive story. During this time, more specifically during the 90s, digital cameras
+     were introduced. This was a huge impact for movie productions, because they make the
+     whole process easier and simpler. Cameras became more resistant, more technological and
+    smaller so now the filmmakers were able to move their cameras to every type of place, and
+     edit their movies on computers, making the process way easier. Besides, film in digital is
+     cheapest for the studios. However, there are still filmmakers and moviegoers that affirm that
+     the digital revolution ruined cinema because they considered the old techniques had more
+     quality and pureness. As we can see, technology has always been present and debated in
+     the movie world. No technology has arrived free of controversy and discussion. In an
+     industry as big as the movie industry, it’s hard to introduce new technology free of problems.
+     There is always a group of people threatened by these new changes. The important
+     question is, should movies slow down their evolution to protect their people?
+    </p>
