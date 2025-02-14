@@ -1,4 +1,8 @@
-## Featured Projects
+---
+title: Featured Projects
+description: "🤖 🧠 💻 📊 📈 📉"
+permalink: /essays/projects
+---
 
 ### [📌 The Arava Project: Automation Of Airport Processes](https://github.com/tru17189/Proyecto-arava)  
 *Used PowerApps, SharePoint, and the rest of the Microsoft 365 environment plus a SQL relational database to 
