@@ -4,7 +4,7 @@
 *Used PowerApps, SharePoint, and the rest of the Microsoft 365 environment plus a SQL relational database to 
 create a software platform able to automate different daily processes at the international airport of Guatemala, "La Aurora."* 
 
-### [📌 Classificatio Of TikTok Videos](https://github.com/tru17189/Classification-of-TikTok-videos)  
+### [📌 Classification Of TikTok Videos](https://github.com/tru17189/Classification-of-TikTok-videos)  
 *Used statsmodels and scikit-learn to predict whether videos presented claims or opinions to improve triaging process 
 of videos for human review.* 
 
