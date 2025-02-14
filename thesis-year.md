@@ -1,4 +1,8 @@
-<b>The Thesis Year</b>
+---
+title: The Thesis Year
+permalink: /thesis-year
+description: "My testimony of how was worked in my thesis project"
+---
 <p align="justify>
   During my last year of highschool, when I was about to graduate. I felt for the first
    time what it is to make a decision that can change your life. An “adult decision” I used to
