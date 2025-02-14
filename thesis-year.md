@@ -1,7 +1,7 @@
 ---
 title: The Thesis Year
 permalink: /essays/thesis-year
-description: "My testimony of how was worked in my thesis project"
+description: "A personal account of my experience working on my thesis project."
 ---
 <p align="justify>
   During my last year of highschool, when I was about to graduate. I felt for the first
