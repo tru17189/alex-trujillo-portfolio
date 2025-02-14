@@ -3,7 +3,7 @@ title: The Thesis Year
 permalink: /essays/thesis-year
 description: "A personal account of my experience working on my thesis project."
 ---
-<p align="justify>
+<p align="justify">
   During my last year of highschool, when I was about to graduate. I felt for the first
    time what it is to make a decision that can change your life. An “adult decision” I used to
    think. “Which major should I study?” That was the question. Now, when I think about it, it’s
