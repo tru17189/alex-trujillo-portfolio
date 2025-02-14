@@ -1,6 +1,6 @@
 ---
 title: The Thesis Year
-permalink: /thesis-year
+permalink: /essays/thesis-year
 description: "My testimony of how was worked in my thesis project"
 ---
 <p align="justify>
