@@ -9,4 +9,4 @@
 - 📩 Email address: ```htrujillo1998@gmail.com```
 - [🐙 GitHub page](https://github.com/tru17189)
 - [🌐 LinkedIn profile](https://www.linkedin.com/in/alexander-trujillo-724a72197/)
-- [📄 Download My Resume]([assets/files/](https://github.com/tru17189/your-repo/raw/main/assets/Alexander Trujillo - Resume.pdf)
+- [📄 Download My Resume](https://github.com/tru17189/tru17189.github.io/blob/5db96782cd27891c5231f7929b5a0962896f165a/assets/files/Alexander%20Trujillo%20-%20Resume.pdf)
