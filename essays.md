@@ -15,5 +15,6 @@ research that I will use to participate in the Bay Area Honors Symposium (BHC) 2
 
 ## Featured Essays  
 - [AI’s Future Impact On Hollywood](https://tru17189.github.io/essays/ai-hollywood)
+- [The Thesis Year](https://tru17189.github.io/essays/thesis-year)
 
   *(More coming soon!)*  
