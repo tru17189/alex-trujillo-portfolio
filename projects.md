@@ -1,7 +1,7 @@
 ---
 title: Featured Projects
 description: "🤖 🧠 💻 📊 📈 📉"
-permalink: /essays/projects
+permalink: /projects
 ---
 
 ### [📌 The Arava Project: Automation Of Airport Processes](https://github.com/tru17189/Proyecto-arava)  
