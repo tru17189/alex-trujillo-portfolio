@@ -49,17 +49,15 @@ description: ""A reflection on the role that Latino students must play in the U.
    stereotypes that are not even related to their cultures, but where do these stereotypes come
    from? Antonio Menéndez explained it like this:
 </p>
-<p align="justify>
-  <i>
+<i align="justify>
      People in the United States tend to explain all of Latin America in terms of the
      nationalities or countries that they know. For instance, most US citizens in the
      Midwest and Southwest perceive Latin American culture through the Mexicans they
      know; in the East, particularly in the New York and Boston areas, people see Latin
      American culture through their limited interactions with Dominicans and Puerto
-     Ricans; in Miami, Cubans and Central Americans
+     Ricans; in Miami, Cubans and Central Americans...
      (Menéndez, 73).
-  </i>
-</p>
+</i>
 <p align="justify>
    Based on this we can understand that these stereotypes come from the interaction that the
    American people have had with the Latinos surrounding them, which actually make sense.
