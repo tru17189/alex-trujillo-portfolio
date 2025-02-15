@@ -3,7 +3,6 @@ title: Do Stereotypes Affect Latino Students?
 permalink: /essays/latino-students
 description: "A reflection on the role that Latino students must play in the U.S."
 ---
-
 <p align="justify>
   Being a student is a challenge. In order to achieve in your student life, you have to
    study, practice, network, and overcome the different obstacles you will come across, so it is
