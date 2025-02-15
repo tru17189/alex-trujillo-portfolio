@@ -16,7 +16,7 @@ description: "A reflection on the role that Latino students must play in the U.S
    to face in America or the perspective their peers have of them as ‘Latino students’, also let’s
    go over where these stereotypes come from.
 </p>
-<p align="justify>
+<p align="justify">
    First, we have to know, what is a ‘student’? The Cambridge dictionary describes it as
    “a person who is studying at a school, college, or university”. Second, it is important to know
    what is a ‘Latino’? Again the Cambridge dictionary describes it as “someone who lives in the
@@ -33,7 +33,7 @@ description: "A reflection on the role that Latino students must play in the U.S
    process, because they will have a sensation of ‘not belonging’ with their learning community,
    and also their effort to learn will feel not valued. Therefore, their performance will be worse.
 </p>
-<p align="justify>
+<p align="justify">
    It is easier to understand the ‘Latino Student’ stereotype, understanding first the
    typical Latino stereotypes, and applying these ideas over what to expect of a student. First, it
    is important to say that these stereotypes are unfair, not just because you shouldn't label a
@@ -50,7 +50,7 @@ description: "A reflection on the role that Latino students must play in the U.S
    stereotypes that are not even related to their cultures, but where do these stereotypes come
    from? Antonio Menéndez explained it like this:
 </p>
-<p align="justify>
+<p align="justify">
   <i>
      People in the United States tend to explain all of Latin America in terms of the
      nationalities or countries that they know. For instance, most US citizens in the
@@ -61,13 +61,13 @@ description: "A reflection on the role that Latino students must play in the U.S
      (Menéndez, 73).
   </i>
 </p>
-<p align="justify>
+<p align="justify">
    Based on this we can understand that these stereotypes come from the interaction that the
    American people have had with the Latinos surrounding them, which actually make sense.
    People will perceive things as they see it. Probably, in this simple fact, comes the biggest
    and most dangerous of all the problems “oversimplification”.
 </p>
-<p align="justify>
+<p align="justify">
   The story of the Latino immigration in the US comes from the needs that these
    people had in their country of origin, needs that originated from the unequal and corrupt
    governments that many of these countries have had. Millions of people looking for a better
@@ -90,7 +90,7 @@ description: "A reflection on the role that Latino students must play in the U.S
    American educational system, and still are labeled under the same stereotypes which were
    used to label their parents.
 </p>
-<p align="justify>
+<p align="justify">
    Is there a solution for this problem? Melissa Alarcon exposed a possible solution in
    her article named Stereotypes “Similarly, taking the perspective of another person inhibits
    both stereotype activation and application.” These dangerous stereotypes can be inhibited,
